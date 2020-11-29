@@ -1,6 +1,6 @@
 # T'sup ✌️
 
-I'm a developer curently working in my final paper related to scalable unsupervised learning distributed system.
+I'm a developer curently working in my completion of course work related to scalable unsupervised learning distributed system.
 
 Sometimes I will code other unrelated fun stuff. I use C++ if memory/speed is a problem, Flutter for mobile, ReactJS for web frontend and Python for the rest.
 
