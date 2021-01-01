@@ -1,8 +1,10 @@
 # T'sup ✌️
 
-I'm a developer curently working in my completion of course work related to scalable unsupervised learning distributed system.
+I'm a developer graduated in the Federal University of Mato Grosso do Sul with experience in web, mobile and desktop development,
+currently I am freelancing, you can contact me using [gitter](https://gitter.im/giuliano-oliveira).
 
-Sometimes I will code other unrelated fun stuff. I use C++ if memory/speed is a problem, Flutter for mobile, ReactJS for web frontend and Python for the rest.
+Sometimes I will work in personal projects that I found fun.
+For all my projects I use C++ if memory/speed is a problem, Flutter for mobile, ReactJS for web frontend and Python for the rest.
 
 check out my [repos](https://github.com/giuliano-oliveira?tab=repositories) and [gists](https://gist.github.com/giuliano-oliveira)
 
