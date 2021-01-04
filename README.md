@@ -1,4 +1,4 @@
-[Stack Overflow Profile](https://stackoverflow.com/users/5133524/giuliano-oliveira)
+[Stack Overflow Profile](https://stackoverflow.com/users/5133524/giuliano-oliveira?tab=profile)
 
 # T'sup ✌️
 
