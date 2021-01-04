@@ -1,3 +1,5 @@
+[Stack Overflow Profile](https://stackoverflow.com/users/5133524/giuliano-oliveira)
+
 # T'sup ✌️
 
 I'm a developer graduated in the Federal University of Mato Grosso do Sul with experience in web, mobile and desktop development,
