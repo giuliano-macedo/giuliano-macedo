@@ -3,7 +3,7 @@
 # T'sup ✌️
 
 I'm a developer graduated in the Federal University of Mato Grosso do Sul with experience in web, mobile and desktop development,
-currently I am working as a full-stack web developer at [Balko](https://balko.com.br), you can contact me using [gitter](https://gitter.im/giuliano-oliveira).
+currently I am working as a software engineer at [Clubbi](https://clubbi.com.br), you can contact me using [gitter](https://gitter.im/giuliano-oliveira).
 
 Sometimes I will work in personal projects that I found fun.
 For all my projects I use C++ if memory/speed is a problem, Flutter for mobile, ReactJS for web frontend and Python for the rest.
