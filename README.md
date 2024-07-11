@@ -2,11 +2,10 @@
 
 # T'sup ✌️
 
-I'm a developer graduated in the Federal University of Mato Grosso do Sul with experience in web, mobile and desktop development,
-currently I am working as a software engineer at [Flash](https://flashapp.com.br).
+I'm a SWE at [Flash](https://flashapp.com.br), and I like to build stuff :>)
 
-Sometimes I will work in personal projects that I found fun.
-For all my projects I use C++ if memory/speed is a problem, Flutter for mobile, ReactJS for web frontend and Python for the rest.
+I'm very confortable working with Python, Go and Dart.
+Currently I am learning Zig and Odin, and I am working at some personal projects related to reverse engineering of old games, FOSS mobile/desktop apps and other stuff.
 
 check out my [repos](https://github.com/giuliano-macedo?tab=repositories) and [gists](https://gist.github.com/giuliano-macedo)
 
