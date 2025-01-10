@@ -2,7 +2,7 @@
 
 # T'sup ✌️
 
-I'm a SWE at [Flash](https://flashapp.com.br), and I like to build stuff :>)
+I like to build stuff :>)
 
 I'm very confortable working with Python, Go and Dart.
 
