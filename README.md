@@ -6,7 +6,7 @@ I like to build stuff :>)
 
 I'm very confortable working with Python, Go and Dart.
 
-Currently I am learning Zig and Odin, and I am working at some personal projects related to reverse engineering of old games, FOSS mobile/desktop apps and other stuff.
+Currently I am learning Odin and enjoying it very much, and I am working at some personal projects related to reverse engineering of old games, FOSS mobile/desktop apps and other stuff.
 
 check out my [repos](https://github.com/giuliano-macedo?tab=repositories) and [gists](https://gist.github.com/giuliano-macedo)
 
