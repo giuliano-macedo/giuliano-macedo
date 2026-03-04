@@ -4,7 +4,7 @@ I like to build stuff :>)
 
 I'm very confortable working with Python, Go and Dart, but lately I've been using C and Go.
 
-Currently I am MSc student at Unicamp focusing on compilers research, and in my free time I work at some personal projects related to reverse engineering of old games, FOSS mobile/desktop apps and other stuff.
+Currently I am CS MSc student at Unicamp focusing on compilers research, and in my free time I work at some personal projects related to reverse engineering of old games, FOSS mobile/desktop apps and other stuff.
 
 check out my [repos](https://github.com/giuliano-macedo?tab=repositories) and [gists](https://gist.github.com/giuliano-macedo)
 
